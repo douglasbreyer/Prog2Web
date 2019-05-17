@@ -1,0 +1,6 @@
+list = 750x450
+promo = 700x300
+home = 960x400
+
+deixar tamanho fixo 
+width: XXXpx;
